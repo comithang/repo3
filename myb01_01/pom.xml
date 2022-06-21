@@ -17,7 +17,7 @@
             <!--关系型数据库管理系统-->
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.20</version>
+            <version>8.0.28</version>
         </dependency>
         <dependency>
             <!--基于Java的持久层框架-->
